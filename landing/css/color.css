@@ -1,0 +1,199 @@
+/*
+	  ============================================================
+		   Font Color
+	  ============================================================
+*/
+.top_location_wrap p i,
+.top_ui_element ul li i,
+.top_ui_element ul li:hover a,
+.main_navigation ul > li:hover > a,
+.ct_banner_caption h4 > span,
+.get_icon_des a,
+.course_author a:hover,
+.ct_course_meta ul li:hover a,
+.popular_course_des h5 > a:hover,
+.ct_teacher_wrap h5 > a,
+.ct_teacher_wrap ul li:hover a,
+.ct_learn_more h4 span,
+.ct_news_wrap h5 > a:hover,
+.footer_col_1 span,
+.foo_col_4 ul li,
+.copyright_text a,
+.ct_main_event_wrap h5 span,
+.ct_main_event_wrap ul.event_location_list li:nth-child(2n),
+.sub_event_wrap h6 > a:hover,
+.foo_col_2 ul li:hover:before,
+.foo_col_2 ul li:hover a,
+.ct_breadcrumb ul li:hover a,
+.ct_blog_detail_des_list ul li:before,
+.ct_share_link ul li:hover a,
+.gt_aside_search_wrap form input[type="text"]:focus + button,
+.gt_aside_post_des i,
+.gt_aside_post_des span,
+.gt_aside_category ul li::before,
+.gt_aside_category ul li:hover a,
+.ct_popular_course > ul > li:hover .ct_proj_des > a,
+.ct_hreg_wrap ul.countdown li span
+{
+	color:#d2c7c7;	
+}
+
+
+
+/*
+	  ============================================================
+		   Background Color
+	  ============================================================
+*/
+.search-area input[type="submit"],
+.ct_banner_caption > a:hover,
+.banner_outer_wrap .bx-wrapper .bx-pager.bx-default-pager a:hover,
+.banner_outer_wrap .bx-wrapper .bx-pager.bx-default-pager a.active,
+.banner_outer_wrap .bx-wrapper .bx-controls-direction a:hover,
+.course_list_img_des .ct_zoom_effect,
+.ct_course_link > a:hover,
+.ct_facts_bg ul li i:after,
+.ct_learn_more a:hover,
+.newletter_des form button,
+.newletter_des form input[type="submit"],
+.foo_get_qoute > a,
+.foo_col_4 ul li:nth-child(3n),
+.back_to_top,
+.copyright_social_icon ul li:hover a,
+.form_field button,
+.ct_404_detail_wrap form button,
+.ct_404_detail_wrap > a,
+.ct_404_socail_media ul li:hover a,
+.ct_blog_detail_top > a,
+.ct_blog_detail_tag ul li:hover a,
+.gt_commet_field input[type="submit"],
+.gt_commet_field button,
+.gt_detail_hdg h5:before,
+.ct_aside_tag ul li:hover a,
+.ct_pagination ul li a:hover,
+.register_top_detail > span,
+.ct_hreg_wrap > a:hover,
+.ct_banner_caption > a.active
+{
+	background-color:#8226f5;	
+}
+
+
+/*
+	  ============================================================
+		   Border Color
+	  ============================================================
+*/
+
+.ct_banner_caption > a,
+.banner_outer_wrap .bx-wrapper .bx-pager.bx-default-pager a:hover,
+.banner_outer_wrap .bx-wrapper .bx-pager.bx-default-pager a.active,
+.ct_course_link > a:hover,
+.ct_learn_more a:hover,
+.form_field input[type="text"]:focus,
+.form_field textarea:focus,
+.ct_404_detail_wrap form input[type="search"],
+.ct_blog_detail_tag ul li:hover a,
+.gt_aside_search_wrap form input[type="text"]:focus,
+.ct_aside_tag ul li:hover a,
+.gt_aside_post_wrap ul li:hover figure:before,
+.ct_pagination ul li a:hover,
+.ct_hreg_wrap > a:hover
+{
+	border-color:transparent;	
+}
+
+
+
+/*
+	  ============================================================
+		   Transaction Effect
+	  ============================================================
+*/
+.get_icon_des a,
+.top_ui_element ul li a,
+.main_navigation ul li,
+.main_navigation ul li a,
+.ct_banner_caption > a,
+.banner_outer_wrap .bx-wrapper .bx-controls-direction a,
+.banner_outer_wrap .bx-wrapper .bx-pager.bx-default-pager a,
+.ct_zoom_effect,
+.ct_course_link,
+.ct_course_link > a,
+.course_author a,
+.course_subject_wrap,
+.course_subject_wrap i,
+.course_subject_wrap p,
+.ct_course_meta ul li a,
+.popular_course_des h5 > a,
+.ct_teacher_wrap ul li a,
+.ct_learn_more a,
+.ct_news_wrap h5 > a,
+.sub_event_wrap h6 > a,
+.copyright_social_icon ul li a,
+.back_to_top,
+.back_to_top a,
+.copyright_text a,
+.foo_get_qoute a,
+.foo_col_2 ul li:before,
+.foo_col_2 ul li a,
+.newletter_des form input[type="text"],
+.newletter_des form button,
+.newletter_des form input[type="submit"],
+.ct_teacher_wrap h5 > a,
+.ct_teacher_outer_wrap figure img,
+.ct_breadcrumb ul li a,
+.form_field input[type="text"],
+.form_field textarea,
+.form_field button,
+.ct_404_socail_media ul li a,
+.ct_404_detail_wrap > a,
+.ct_blog_detail_top > a,
+.ct_blog_detail_tag ul li a,
+.ct_share_link ul li a,
+.gt_commet_field input[type="submit"], .gt_commet_field button,
+.gt_aside_search_wrap form input[type="text"],
+.gt_aside_category ul li,
+.gt_aside_category ul li a,
+.gt_aside_category ul li span,
+.gt_aside_category ul li::before,
+.ct_aside_testimonial #bx-pager a,
+.ct_aside_tag ul li a,
+.gt_aside_post_wrap ul li figure:before,
+.ct_proj_des > a,
+.ct_pagination ul li a,
+.main_navigation ul ul,
+.ct_hreg_wrap > a
+{
+	transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+	-moz-transition:all 0.3s ease-in-out;
+	-o-transition:all 0.3s ease-in-out;
+	-moz-transition:all 0.3s ease-in-out;	
+}
+
+
+
+/*
+	  ============================================================
+		   Transform Effect
+	  ============================================================
+*/
+
+/*
+	  ============================================================
+		  Content Selection
+	  ============================================================
+*/
+::selection {
+    background: #e625ea;
+    color:#ffffff;
+}
+::-webkit-selection {
+    background: #e625ea;
+    color: #ffffff;
+}
+::-moz-selection {
+    background: #e625ea;
+    color: #ffffff;
+}

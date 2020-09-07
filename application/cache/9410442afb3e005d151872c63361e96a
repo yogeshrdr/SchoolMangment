@@ -1,0 +1,497 @@
+a:2:{s:6:"expire";i:1556212069;s:7:"headers";a:6:{i:0;a:2:{i:0;s:15:"HTTP/1.0 200 OK";i:1;b:1;}i:1;a:2:{i:0;s:15:"HTTP/1.1 200 OK";i:1;b:1;}i:2;a:2:{i:0;s:44:"Last-Modified: Thu, 25 Apr 2019 16:57:49 GMT";i:1;b:1;}i:3;a:2:{i:0;s:50:"Cache-Control: no-store, no-cache, must-revalidate";i:1;b:1;}i:4;a:2:{i:0;s:40:"Cache-Control: post-check=0, pre-check=0";i:1;b:1;}i:5;a:2:{i:0;s:16:"Pragma: no-cache";i:1;b:1;}}}ENDCI--->	
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="description here">
+<meta name="keywords" content="fsf,sdds,adfs,read,me,go,ede,osun,wale,ope,tife,one,two">
+<meta name="author" content="OPTIMUM LINKUP COMPUTERS">
+<meta name="revisit-after" content="2 days">
+		
+
+        <title>OFINE SCHOOL MANAGEMENT SYSTEMS | OFINE SCHOOL MANAGEMENT SYSTEMS</title>   <!-- Bootstrap core CSS -->
+		<link rel="icon"  sizes="16x16" href="http://127.0.0.1/newschool/uploads/logo.png">
+    <link href="http://127.0.0.1/newschool/landing/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bx-Slider StyleSheet CSS -->
+    <link href="http://127.0.0.1/newschool/landing/css/jquery.bxslider.css" rel="stylesheet"> 
+    <!-- Font Awesome StyleSheet CSS -->
+    <link href="http://127.0.0.1/newschool/landing/css/font-awesome.css" rel="stylesheet">
+    <link href="http://127.0.0.1/newschool/landing/css/svg-style.css" rel="stylesheet">
+    <!-- Pretty Photo CSS -->
+    <link href="http://127.0.0.1/newschool/landing/css/prettyPhoto.css" rel="stylesheet">
+	<!-- DL Menu CSS -->
+	<link href="http://127.0.0.1/newschool/landing/js/dl-menu/component.css" rel="stylesheet">
+    <!-- Widget CSS -->
+    <link href="http://127.0.0.1/newschool/landing/css/widget.css" rel="stylesheet">
+    <!-- Typography CSS -->
+    <link href="http://127.0.0.1/newschool/landing/css/typography.css" rel="stylesheet">
+    <!-- Owl Carousel CSS -->
+    <link href="http://127.0.0.1/newschool/landing/css/owl.carousel.css" rel="stylesheet">
+    <!-- Shortcodes CSS -->
+    <link href="http://127.0.0.1/newschool/landing/css/shortcodes.css" rel="stylesheet">
+	<!-- Custom Main StyleSheet CSS -->
+    <link href="http://127.0.0.1/newschool/landing/style.css" rel="stylesheet">
+    <!-- Color CSS -->
+    <link href="http://127.0.0.1/newschool/landing/css/color.css" rel="stylesheet">
+    <!-- Responsive CSS -->
+    <link href="http://127.0.0.1/newschool/landing/css/responsive.css" rel="stylesheet">
+ 	<link href="http://127.0.0.1/newschool/landing/css/toast-master/css/jquery.toast.css" rel="stylesheet">
+<!-- Popup CSS -->
+    <link href="http://127.0.0.1/newschool/landing/Magnific-Popup-master/dist/magnific-popup.css" rel="stylesheet">
+	
+	
+  </head>
+
+  <body>
+  
+
+<!--Wrapper Start-->  
+<div class="ct_wrapper">
+	
+    <!--Header Wrap Start-->
+    <header>
+    	<!--Top Strip Wrap Start-->
+        <div class="top_strip">
+        	<div class="container">
+                 <div class="top_location_wrap">
+                    <p><i class="fa fa-map-marker"></i>546787, Kertz shopping complext, Silicon Valley, United State of America, New York city</p>
+                </div>
+                <div class="top_ui_element">
+                    <ul>
+                        <li><i class="fa fa-envelope"></i><a href="mailto:optimumproblemsolver@gmail.com">optimumproblemsolver@gmail.com</a></li>
+                        <li><i class="fa fa-phone"></i><a href="tel:+1564783934">+1564783934</a>&nbsp;&nbsp;<a href="http://127.0.0.1/newschool/welcome/login/"><i class="fa fa-sign-in"></i>&nbsp;Login</a></li>
+                    </ul>
+                </div>            </div>
+        </div>
+        <!--Top Strip Wrap End-->
+        
+         <!--Navigation Wrap Start-->
+        <div class="logo_nav_outer_wrap">
+        	<div class="container">
+                <div class="logo_wrap">
+  						<a href="http://127.0.0.1/newschool/" class="logo">
+                        <img src="http://127.0.0.1/newschool/uploads/logo.png" width="225" height="36" alt="" />
+                   	 	</a>                
+						</div>
+               <!-- <div class="top_cart_wrap">
+                	<i class="fa fa-cart-arrow-down"></i>
+                </div>
+                <div class="top_search_wrap">
+                	<i class="fa fa-search search-fld"></i>
+                    <div class="search-wrapper-area">
+                        <form class="search-area">
+                            <input type="text" placeholder="search here"/>
+                            <input type="submit" value="Go"/>
+                        </form>
+                    </div>
+                </div>-->
+               <nav class="main_navigation">
+                    <ul>
+                        <li><a href="http://127.0.0.1/newschool/welcome/">Home<span>MAIN PAGE</span></a></li>
+                        <li><a href="http://127.0.0.1/newschool/welcome/about">About<span>ABOUT US</span></a></li>
+                        <li><a href="http://127.0.0.1/newschool/welcome/admission">Admission<span>ADMISSION FORM</span></a></li>
+                        <li><a href="http://127.0.0.1/newschool/welcome/teacher">Teachers<span>INSTURCTORS</span></a></li>
+                        <li><a href="http://127.0.0.1/newschool/welcome/checkStudentResult">Check Result<span>WITH SCRATCH CARD</span></a></li>
+                        <li><a href="http://127.0.0.1/newschool/welcome/gallery">Gallery<span>PHOTO GALLERY</span></a></li>
+						<li><a href="http://127.0.0.1/newschool/welcome/marketPlace">market place<span>PARENTS AND STAFF</span></a></li>
+                        <li><a href="http://127.0.0.1/newschool/welcome/contact/validate">Contact<span>Contact Us</span></a></li>
+                    </ul>
+                </nav>
+                <!--DL Menu Start-->
+                <div id="kode-responsive-navigation" class="dl-menuwrapper">
+                    <button class="dl-trigger">Open Menu</button>
+                    <ul class="dl-menu">
+                        <li class="active"><a href="http://127.0.0.1/newschool/welcome/">Home</a></li>
+                        <li class="menu-item kode-parent-menu"><a href="http://127.0.0.1/newschool/welcome/about">about us</a></li>
+                        <li class="menu-item kode-parent-menu"><a href="http://127.0.0.1/newschool/welcome/admission">Admission</a></li>
+                        <li class="menu-item kode-parent-menu"><a href="http://127.0.0.1/newschool/welcome/teacher">Teachers</a></li>
+						<li class="menu-item kode-parent-menu"><a href="http://127.0.0.1/newschool/welcome/checkStudentResult">Check Result</a></li>
+						<li class="menu-item kode-parent-menu"><a href="http://127.0.0.1/newschool/welcome/gallery">Gallery</a></li>
+                        <li class="menu-item kode-parent-menu"><a href="http://127.0.0.1/newschool/welcome/marketPlace">Market Place</a></li>
+                        <li class="menu-item kode-parent-menu"><a href="http://127.0.0.1/newschool/welcome/contact/validate">Contact Us</a></li>
+                    </ul>
+                </div>                <!--DL Menu END-->
+            </div>
+        </div>
+        <!--Navigation Wrap End-->
+    </header>
+    <!--Header Wrap End-->
+    
+    <!--Banner Wrap Start-->
+    <section class="sub_banner_wrap">
+    	<div class="container">
+        	<div class="row">
+            	<div class="col-md-6">
+                	<div class="sub_banner_hdg">
+                    	<h3>market place</h3>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                	<div class="ct_breadcrumb">
+                    	<ul>
+                        	<li><a href="http://127.0.0.1/newschool/welcome/">Home</a></li>
+                            <li><a href="#">chose from the market place</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--Banner Wrap End-->
+    
+    <!--Content Wrap Start-->
+    <div class="ct_content_wrap">
+    	<section>
+        	<div class="container">
+                <div class="row">
+				<div class="ct_heading_1_wrap">
+                	<h3>Market Place</h3>
+					
+                    <p>This is a market place for parents and every members of the school. This platform is strictly for staff of the school and all the parents whom their wards are still bonafide students of the school. Please note that this is not an ecommerce platform, where you can purchase goods directly with your credit card. This plaform is only meant for parents or staff of the school to show case their handy work such as funitures, shoes, bags, household utensils, etc. where potentials clients can view the product and get the moble number of the seller.</p>
+					<span><img src="http://127.0.0.1/newschool/landing/images/hdg-01.png" alt=""></span>
+                </div>
+
+				<div class="col-sm-12">
+				
+				
+               	<div class="col-sm-10">
+					 
+             									   
+				   						<div class="col-sm-12">	
+					<div class="white-box">
+					<div class="alert alert-danger" align="center">There is no product posted to this category. Please check by later. Thanks</div>
+					</div>
+					</div>
+							
+				   
+					
+                     
+               </div>
+					
+					<!--Aside Bar Wrap Start-->
+                    <div class="col-md-2">
+                        <aside class="gt_aside_outer_wrap">
+                        	<!--Search Bar Wrap Start-->
+                           
+                            <!--Search Bar Wrap Start-->
+                    
+
+
+ <!--Recent News Wrap Start-->
+                            <div class="gt_aside_post_wrap gt_detail_hdg aside_margin_bottom">
+                            	<h5>Select Categories</h5>
+								
+                                <ul>
+								                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/1">Computers</a></li>
+									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/2">Vehicles</a></li>
+									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/3">Phones</a></li>
+									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/4">Wears</a></li>
+									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/5">Bags</a></li>
+									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/6">Cosmetics</a></li>
+									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/7">Electronics</a></li>
+									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/8">Properties</a></li>
+									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/9">Foods</a></li>
+									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/10">Others</a></li>
+									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/11">Software</a></li>
+									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/12">Project Materials</a></li>
+									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/13">Arts Works</a></li>
+									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/14">Printing</a></li>
+									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/15">Decoration</a></li>
+									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/16">Archietectural Design</a></li>
+									                                	<li><a href="http://127.0.0.1/newschool/welcome/loadMarketPlace/17">Furnitures</a></li>
+									                                </ul>
+								
+                            </div>
+                            <!--Recent News Wrap Start-->
+                        </aside>
+                    </div>
+                    <!--Aside Bar Wrap End-->
+
+				  		
+                </div>
+			
+            </div>
+        </section>
+        
+    </div>
+    <!--Content Wrap End-->
+    
+    <!--Footer Wrap Start-->
+	 <!--Learn More Wrap Start-->
+        <div class="ct_learn_more_bg">
+        	<div class="container">
+            	<div class="ct_learn_more">
+                	<h4>We provide universal access to the world’s best <span>education.</span></h4>
+                    <a href="http://127.0.0.1/newschool/welcome/enquiry">Learn More</a>
+                </div>
+            </div>
+        </div>
+        <!--Learn More Wrap End-->
+    <footer>
+    	<!--NewsLetter Wrap Start
+        <div class="ct_newsletter_wrap">
+        	<div class="container">
+            	<div class="newletter_des">
+                	<!--<h5>Subscribe Our Weekly Newsletter</h5>
+                    <form>
+                    	<label class="fa fa-envelope-o"></label>
+                    	<input type="text" placeholder="Enter Your Email">
+                        <button>Signup</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <!--NewsLetter Wrap End-->
+        <script>
+			
+			 $(window).load(function(){        
+   $('#modalPush').modal('show');
+    }); 
+			</script>
+                <div class="ct_footer_bg">
+        	<div class="container">
+            	<div class="row">
+                	<div class="col-md-3 col-sm-6">
+                    	<div class="footer_col_1 widget">
+						
+                        <img src="http://127.0.0.1/newschool/uploads/logo.png" width="150" height="40" alt="" />
+                   	 	</a>
+						<p align="justify" style="color:white">						Meet our able, gallant and most competent teachers that will help your children/child to attain higher success in life. We teach to become a creative thinker and to be useful to the society.						</p>
+                         <a href="http://127.0.0.1/newschool/welcome/contact/validate/" class="btn btn-success btn-rounded btn-sm" style="color:white">GET IN TOUCH</a>
+                            
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-2 col-sm-6">
+                    	<div class="foo_col_2 widget">
+                        	<h5>More Pages</h5>
+                            <ul>
+                            	<li><a href="http://127.0.0.1/newschool/welcome/contact/validate">Contact Us</a></li>
+                                <li><a href="http://127.0.0.1/newschool/welcome/teacher">View Teachers</a></li>
+                                <li><a href="http://127.0.0.1/newschool/welcome/admission">Admission</a></li>
+                                <li><a href="http://127.0.0.1/newschool/welcome/gallery">School Gallery</a></li>
+								<li><a href="http://127.0.0.1/newschool/welcome/checkStudentResult">Check Result</a></li>
+
+                            </ul>
+                        </div>
+                    </div>
+                    
+                     <div class="col-md-2 col-sm-6">
+                    	<div class="foo_col_2 widget">
+                        	<h5>Quick Links</h5>
+                            <ul>
+                            	<li><a href="http://127.0.0.1/newschool/welcome/about">About Us</a></li>
+                                <li><a href="http://127.0.0.1/newschool/welcome/teacher">Our Teachers</a></li>
+                                <li><a href="http://127.0.0.1/newschool/welcome/marketPlace">Market Place</a></li>
+                                <li><a href="http://127.0.0.1/newschool/welcome/gallery">Our Gallery</a></li>
+                                <li><a href="http://127.0.0.1/newschool/welcome/contact/validate">Enquiry Now</a></li>
+
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-2 col-sm-6">
+                    	<div class="foo_col_4 widget">
+                        	<h5 style="color:white">Contact Us</h5>
+                            <ul>
+                           <p align="justify" style="color:white">
+						   								546787, Kertz shopping complext, Silicon Valley, United State of America, New York city							</p>
+							<p align="justify" style="color:white">
+						   	Phone: 							+1564783934							</p>
+                             <p><img src="http://127.0.0.1/newschool/landing/secure.png" alt="" width="80"><img src="http://127.0.0.1/newschool/landing/cloud.png" alt="" width="80"></p>
+								
+                            </ul>
+                        </div>
+                    </div>
+					
+					
+					<div class="col-md-3 col-sm-6">
+                    	<div class="foo_col_2 widget">
+                        	<h5>facebook like</h5>
+                            <ul>
+                            	<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fhttps://facebook.com/optimumlinkup&width=260&height=260&colorscheme=light&show_faces=true&header=true&stream=false&show_border=true&appId=194009127410715" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:260px; height:190px;" allowTransparency="true"></iframe>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                </div>
+					<div class="row">
+                    <div class="col-sm-12">
+					
+					 <div class="col-sm-4">	
+				<a href="#" ><img src="http://127.0.0.1/newschool/landing/images/ios.png" width="150" height="40" alt="" /></a>
+				<a href="#" ><img src="http://127.0.0.1/newschool/landing/images/android.png" width="150" height="40" alt="" /></a>
+				</div>
+				 <div class="col-sm-8">	
+				<div style="margin: 0px auto; max-width: auto;" class="pull-right">  <form action="http://127.0.0.1/newschool/admin/subscribe" class="" method="post" accept-charset="utf-8">
+ <div class="nc-search" role="search" style="position: relative; display: flex; flex-flow: row wrap; margin: 0px auto; padding: 0.75em 0px 0px; font-family: -apple-system, blinkmacsystemfont, 'segoe ui', roboto, oxygen, ubuntu, cantarell, 'fira sans', 'droid sans', 'helvetica neue', sans-serif;"> <input  name="email" id="subscr" style="flex: 1 1 0%; min-width: 100px; min-height: 42px; padding: 0px 0.5em; border: 1px solid #d6d6d6; font-size: 1.125em; line-height: 20px; margin-right: 0px !important; margin-top: 0px !important; border-top-left-radius: 5px !important; border-top-right-radius: 0px !important; border-bottom-right-radius: 0px !important; border-bottom-left-radius: 5px !important;" autocomplete="off" placeholder="Enter your email address here" autocorrect="off" spellcheck="false" autocapitalize="off" type="text" required><input style="flex: 0 1 0%; min-width: 94px; width: 94px; padding: 0px 1em; font-size: 1.125em; line-height: 20px; text-align: center; border: 1px solid rgb(222, 55, 35); color: rgb(255, 255, 255); text-shadow: rgb(222, 55, 35) 0px -1px 1px; background: rgba(0, 0, 0, 0) linear-gradient(rgb(253, 79, 0) 0%, rgb(222, 55, 35) 100%) repeat scroll 0% 0%; cursor: pointer; min-height: 42px !important; margin-left: 0px !important; margin-top: 0px !important; border-radius: 0px 5px 5px 0px !important;" value="Subscribe" type="submit"> </div> </form></div></div></div></div>
+			
+            </div>
+        </div>
+        <!--Footer Col Wrap End-->
+        
+        <!--Footer Copyright Wrap Start-->
+        <div class="ct_copyright_bg">
+        	<div class="container">
+            	<div class="row">
+                	<div class="col-md-6">
+                    	<div class="copyright_text">
+                        	Built with <a class="fa fa-heart" href="#"></a> from <a href="#" style="color:white">Developed by Optimum Linkup Computers. All Right Reserved (2017)</a>. All right reserved
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                    	<div class="copyright_social_icon">
+                        	<ul>
+                            	<li><a href="								https://pinterest.com/optimumlinkup" style="color:white"><i class="fa fa-pinterest"></i></a></li>
+								
+                            	<li><a href="								https://linkedin.com/optimumlinkup" style="color:white"><i class="fa fa-linkedin"></i></a></li>
+								
+                            	<li><a href="								https://twitter.com/optimumlinkup" style="color:white"><i class="fa fa-twitter"></i></a></li>
+								
+                            	<li><a href="								https://facebook.com/optimumlinkup" style="color:white"><i class="fa fa-facebook"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Footer Copyright Wrap End-->
+        <div class="back_to_top">
+            <a href="#"><i class="fa fa-angle-up"></i></a>
+        </div>
+    </footer>
+    <!--Footer Wrap End-->
+
+</div>
+<!--Wrapper End-->
+		<script src='https://www.google.com/recaptcha/api.js'></script>
+
+    <!--Bootstrap core JavaScript-->
+    <script src="http://127.0.0.1/newschool/landing/js/jquery.js"></script>
+    <script src="http://127.0.0.1/newschool/landing/js/bootstrap.min.js"></script>
+    <!--Bx-Slider JavaScript-->
+	<script src="http://127.0.0.1/newschool/landing/js/jquery.bxslider.min.js"></script>
+    <!--Dl Menu Script-->
+	<script src="http://127.0.0.1/newschool/landing/js/dl-menu/modernizr.custom.js"></script>
+	<script src="http://127.0.0.1/newschool/landing/js/dl-menu/jquery.dlmenu.js"></script>
+    <!--Owl Carousel JavaScript-->
+	<script src="http://127.0.0.1/newschool/landing/js/owl.carousel.js"></script>
+    <!--Time Counter Javascript-->
+    <script src="http://127.0.0.1/newschool/landing/js/jquery.downCount.js"></script>
+    <!--Pretty Photo Javascript-->
+    <script src="http://127.0.0.1/newschool/landing/js/jquery.prettyPhoto.js"></script>
+    <!--Way Points Javascript-->
+    <script src="http://127.0.0.1/newschool/landing/js/waypoints-min.js"></script>
+    <!--Custom JavaScript-->
+	<script src="http://127.0.0.1/newschool/landing/js/custom.js"></script>
+	
+  	<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/588e0fa6af9fa11e7aa44047/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>	
+	 <script src="http://127.0.0.1/newschool/landing/css/toast-master/js/jquery.toast.js"></script>
+
+		 <!-- auto hide message div-->
+    <script type="text/javascript">
+        $( document ).ready(function(){
+           $('.hide_msg').delay(2000).slideUp();
+        });
+    </script>
+		
+		
+		
+	 <script type="text/javascript">
+            $('#admin').click(function () {
+                $("input[name=email]").val('admin@admin.com');
+                $("input[name=password]").val('1234');
+                $("select[name=login_type]").val('admin');
+            });
+            $('#teacher').click(function () {
+                $("input[name=email]").val('teacher@teacher.com');
+                $("input[name=password]").val('teacher');
+				$("select[name=login_type]").val('teacher');
+            });
+            $('#student').click(function () {
+                $("input[name=email]").val('student@student.com');
+                $("input[name=password]").val('student');
+				$("select[name=login_type]").val('student');
+            });
+            $('#parent').click(function () {
+                $("input[name=email]").val('parent@parent.com');
+                $("input[name=password]").val('parent');
+				$("select[name=login_type]").val('parent');
+            });
+            $('#accountant').click(function () {
+                $("input[name=email]").val('accountant@account.com');
+                $("input[name=password]").val('accountant');
+				$("select[name=login_type]").val('accountant');
+            });
+            $('#librarian').click(function () {
+                $("input[name=email]").val('librarian@librarian.com');
+                $("input[name=password]").val('librarian');
+				$("select[name=login_type]").val('librarian');
+            });
+			
+            $('#recep').click(function () {
+                $("input[name=email]").val('hostel@hostel.com');
+                $("input[name=password]").val('hostel');
+				$("select[name=login_type]").val('hostel');
+            });
+			$('#classt').click(function () {
+                $("input[name=email]").val('esther@esther.com');
+                $("input[name=password]").val('teacher');
+				$("select[name=login_type]").val('teacher');
+            });
+			$('#hrm').click(function () {
+                $("input[name=email]").val('hrm@hrm.com');
+                $("input[name=password]").val('1234');
+				$("select[name=login_type]").val('hrm');
+            });
+        </script>
+		
+	<script>
+    $('form').submit(function (e) 
+	{
+        $('#install_progress').show();
+        $('#modal_1').show();
+        $('.btn').val('Login...');
+        $('form').submit();
+        e.preventDefault();
+    });
+</script>
+
+		 <!-- Magnific popup JavaScript -->
+    <script src="http://127.0.0.1/newschool/landing/Magnific-Popup-master/dist/jquery.magnific-popup.min.js"></script>
+    <script src="http://127.0.0.1/newschool/landing/Magnific-Popup-master/dist/jquery.magnific-popup-init.js"></script>	
+	<script src="assets/js/neon-custom-ajax.js"></script>
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#f1d600"
+    }
+  },
+  "position": "bottom-left"
+})});
+</script>
+
+  </body>
+</html>

@@ -1,0 +1,606 @@
+/*==== Developed by OPTIMUM LINKUP COMPUER == */
+
+
+
+/*==== Developed by OPTIMUM LINKUP COMPUER : CSS VARRIABLES== */
+:root {
+	--color-green: #55c57a;
+	--color-green-light: #7ed56f;
+	--color-green-dark: #28b485;
+	--color-silver:#e4e7ea;
+	--color-white:#fff;
+	--color-black:#000;
+	--color-silver-2:#54667a;
+	--color-silver-3:#f1f1f4;
+	--color-silver-4:#999;
+
+}
+
+html{
+	font-size: 10px;
+	font-weight: 400;
+}
+
+body {
+	font-family: "Poppins", sans-serif;
+}
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+/*==== Developed by OPTIMUM LINKUP COMPUER : STYLE SIGNUP AND LOGIN FORM == */
+
+.signup-container {
+	display: flex;
+	display: -webkit-flex;
+	height: 100%;
+	height: 100vh;
+}
+
+.account-left {
+	width: 70%;
+	background-image: linear-gradient(to right bottom, rgba(40, 180, 133, .90)50%, transparent 50%), url(../images/account-bgc.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+
+.account-text{
+	position: absolute;
+	top: 20%;
+	left: 40%;
+	transform: translate(-50%, -50%);
+	font-size: 1.5rem;
+	color: var(--color-white);
+
+}
+
+.account-right {
+	width: 30%;
+	position: relative;
+}
+
+.form-area {
+	width: 80%;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+.group{
+
+	margin-bottom: 1.5rem;
+}
+
+.control{
+	width: 100%;
+	display: block;
+	padding: 1.1rem 1rem;
+	border-radius: 1px;
+	border: 1px solid var(--color-silver);
+	transition: all 1s;
+}
+
+.control:focus {
+	outline: none;
+	border: 1px solid var(--color-green-dark);
+}
+
+.file{
+	display: none;
+}
+
+#file-label{
+	display: block;
+	width: 100%;
+	padding: 1.1rem 1rem;
+	border: 1px solid var(--color-silver);
+	border-radius: 3px;
+	font-size: 1.2rem;
+	text-align: left;
+
+}
+
+#file-label:hover{
+	cursor: pointer;
+}
+
+.btn{
+	display: block;
+	padding: 1.2rem .9rem;
+	font-size: 1.5rem;
+	border-radius: 3rem;
+	text-transform: uppercase;
+	border: 0px;
+	color: var(--color-white);
+}
+
+.account-btn {
+	width: 100%;
+	background: linear-gradient(to right, var(--color-green-light), var(--color-green-dark));
+	box-shadow: 0 .8rem .6rem -.6px
+}
+
+.account-btn:hover{
+	cursor: pointer;
+}
+.upload-icon{
+
+	margin-right: 1.5rem;
+	font-size: 1.7rem;
+	color: var(--color-green-dark);
+
+}
+
+.form-heading{
+
+	text-transform: uppercase;
+	font-size: 2rem;
+	font-weight: 400;
+	border-bottom: 1rem solid var(--color-green-silver);
+	padding-bottom: 1.5rem;
+	letter-spacing: .2rem;
+	text-align: left;
+	color: #999;
+}
+
+.link{
+	color: #999;
+	display: block;
+	font-size: 1.5rem;
+	text-decoration: none;
+	text-align: center;
+	font-weight: 200;
+	padding-top: 1.5rem;
+}
+
+.prof{
+	color: #999;
+	font-size: 1.5rem;
+	text-decoration: none;
+	font-weight: 200;
+	text-align: right;
+	padding-top: 1.5rem;
+}
+
+.prof2{
+	color: #999;
+	font-size: 1.5rem;
+	text-decoration: none;
+	font-weight: 200;
+	text-align: left;
+	padding-top: 1.5rem;
+}
+
+.reset{
+	color: #999;
+	display: block;
+	font-size: 1.2rem;
+	text-decoration: none;
+	text-align: right;
+	font-weight: 100;
+	padding-top: 1rem;
+}
+
+
+/*==== Developed by OPTIMUM LINKUP COMPUER : STYLE CHAT AREA == */
+#nav{
+	width: 100%;
+	height: 10vh;
+	background: linear-gradient(to right, var(--color-green-light), var(--color-green-dark));
+	box-shadow: 0px 1px 3px 1px rgba(0,0,0,0.5);
+	position: relative;
+
+}
+
+.chat-container{
+	display: flex;
+}
+
+#sidebar{
+	width: 20%;
+	height: 90vh;
+	background-color: var(--color-white);
+	box-shadow: .8rem 0 .6rem rgba(0,0,0,0.5);	
+	position: relative;
+}
+
+#sidebar::before{
+position: absolute;
+content: "Profile";
+width: 100%;
+height: 10vh;
+top:-10vh;
+background: linear-gradient(to right, var(--color-green-light), var(--color-green-dark));
+	box-shadow: 0px 1px 3px 1px rgba(0,0,0,0.5);
+box-shadow: 3px -2px 5px 0px rgba(0,0,0,0.2);
+line-height: 10vh;
+text-align: center;
+font-size: 1.5rem;
+color: var(--color-white);
+}
+
+.left-ul{
+	margin: 3rem 0;
+	padding: 0;
+}
+.left-ul li {
+	list-style: none;
+}
+
+.left-ul li a {
+	text-decoration: none;
+	display: block;
+	padding: 1.5rem 0;
+	text-align: center;
+	font-size: 1.3rem;
+	color: var(--color-silver-2);
+	position: relative;
+}
+
+.profile-img-span{
+display: block;
+width: 8rem;
+height: 8rem;
+border-radius: 50%;	
+margin: 0 auto;
+overflow: hidden;
+
+
+}
+
+.profile-img-span:hover .profile-img{
+	transform: scale(1.5);
+}
+
+
+.profile-img{
+	width: 8rem;
+	height: 8rem;
+	border-radius: 50%;
+	transition: all .3s;
+
+}
+
+.left-ul li:not(:first-child):hover {
+background: linear-gradient(to right, var(--color-green-light), var(--color-green-light));
+
+}
+
+.left-ul li:hover a{
+	color: var(--color-white);
+}
+
+.cool-hover{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 0;
+	height: 100%;
+	background-color: rgb(0,0,0,0.2);
+	transition: all .3s;
+}
+
+.left-ul li:hover .cool-hover{
+	width: 100%;
+}
+
+
+#right-area{
+	width: 80%;
+	background-color: white;
+}
+
+.messages{
+	width: 100%;
+	height: 75vh;
+	padding: 2rem;
+	overflow-x: hidden;
+	overflow-y: sroll; 
+
+}
+
+.left-message{
+	display: flex;
+	width: 50%;
+}
+
+.sender-img-block{
+width: 4rem;
+height: 4rem;
+border-radius: 50%;
+position: relative;
+}
+
+.online-icon{
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 1.2rem;
+	height: 1.2rem;
+	background-color: var(--color-green-dark);
+	display: block;
+	border-radius: 50%;
+	border: 2px solid var(--color-white);
+}
+
+
+.offline-icon{
+position: absolute;
+	top: 0;
+	right: 0;
+	width: 1.2rem;
+	height: 1.2rem;
+	background-color: red;
+	display: block;
+	border-radius: 50%;
+	border: 2px solid var(--color-white);
+
+}
+
+.sender-img{
+	width: 4rem;
+	height: 4rem;
+	border-radius: 50%;
+}
+
+.left-msg-area{
+	margin-left: 2rem;
+}
+
+.sender-name{
+	font-weight: 500;
+	font-size: 1.1rem;
+	color: var(--color-silver-4);
+
+
+}
+
+.date-time{
+	margin-left: 2rem;
+	color: var(--color-silver-4);
+}
+
+.common-margin{
+	margin-top: 1.5rem;
+}
+
+.left-msg{
+	padding: 1rem;
+	width: auto;
+	background: linear-gradient(to right, var(--color-green-light), var(--color-green-light));
+	color: var(--color-white);
+	border-top-right-radius: .5rem;
+	border-bottom-right-radius: .5rem;
+	border-bottom-left-radius: .5rem;
+	margin-top: .3rem;
+	position: relative;
+	font-size: 1.2rem;
+}
+
+.left-msg:before{
+	position: absolute;
+	content: "";
+	top: 0;
+	left: -.7rem;
+	width: 0;
+	height: 0;
+	border-top: .7rem solid var(--color-green-light);
+	border-left: .7rem solid transparent;
+
+}
+
+.right-messages{
+	display: flex;
+	justify-content:flex-end;
+
+}
+
+.right-msg-area{
+	max-width: 50%;
+	width: auto;
+}
+
+.right-msg{
+	padding: 1rem;
+	width: auto;
+	background-color: var(--color-silver-3);
+	color: var(--color-white);
+	border-top-right-radius: .5rem;
+	border-bottom-right-radius: .5rem;
+	border-bottom-left-radius: .5rem;
+	margin-top: .3rem;
+	color: var(--color-black);
+	font-size: 1.2rem;
+}
+
+.right-time{
+	display: block;
+	text-align: right;
+}
+
+.chat-form{
+	width: 100%;
+	height: 10vh;
+	border-top: 1px solid var(--color-silver-3);
+}
+
+.chat-container{
+
+	display: flex;
+}
+
+.form-input{
+	width: 50%;
+}
+
+
+.textarea-control{
+width: 100%;
+border: 0;
+padding: 1rem 2rem;
+height: 5rem;
+resize: none;
+margin-left: .5rem;
+}
+
+.textarea-control:focus{
+	outline: none;
+}
+
+.files-upload{
+	display: none;
+}
+
+#upload-label{
+	width: 100%;
+	height: 5rem;
+	line-height: 5.5rem;
+	text-align: center;
+	display: block;
+}
+
+.fa-uploads{
+	font-size: 1.8rem;
+	margin-left: 3rem;
+	color: var(--color-silver-4);
+}
+
+
+::-webkit-input-placeholder{
+	font-family: "Poppins", sans-serif;
+	font-size: 1.2rem;
+	font-weight: 300;
+	letter-spacing: 2px;
+}
+
+#upload-label:hover{
+cursor: pointer;
+}
+
+.emoji{
+	height: 5vh;
+	width: 100%;
+	text-align: left;
+}
+
+.emoji-same{
+	width: 2rem;
+	height: 2rem;
+	margin-left: 1rem;
+}
+
+.emoji-same:hover{
+	cursor: pointer;
+}
+
+.form-section{
+	padding: 3rem;
+}
+
+.form-grid{
+	width: 35%;
+}
+
+.custom-bars{
+	position: absolute;
+	float: right;
+	font-size: 1.8rem;
+	color: var(--color-white);
+	right: 3rem;
+	top: 33%;
+}
+
+.custom-bars:hover{
+	cursor: pointer;
+}
+
+
+.bars{
+	display: none;
+}
+
+/*=== Form Errors === */
+.error{
+	color: red;
+	text-align: left;
+	font-size: 1.2rem;
+	margin-top: 5px;
+}
+
+
+/*=== DESIGN SCROLL BAR ===*/
+
+.messages::-webkit-scrollbar{
+	width: 1rem;
+	background-color: var(--color-silver-3);
+}
+
+.messages::-webkit-scrollbar-thumb{
+	background-color: #888;
+	border-radius: 1rem;
+}
+
+
+/*==== Developed by OPTIMUM LINKUP COMPUER : STYLE SIGNUP AND LOGIN FORM RESPONSIVE == */
+
+@media (max-width: 765px){
+
+	.account-left {
+		display: none;
+	}
+	.account-right {
+		width: 100%;
+	}
+
+	.chat-container{
+		flex-wrap: wrap;
+	}
+
+	.bars{
+		display: block;
+	}
+
+	#sidebar{
+		width: 100%;
+		display: none;
+	}
+
+	#right-area{
+		width: 100%;
+	}
+
+	#sidebar:before:{
+		width: 30%;
+	}
+
+	.left-message{
+		max-width: 100%;
+		width: auto;
+	}
+
+	.right-msg-area{
+		max-width: 90%;
+		width: auto;
+	}
+
+	.messages{
+		height: 70vh;
+	}
+
+	::-webkit-input-placeholder{
+		font-size: 9rem;
+		font-family: sans-serif;
+		color: var(--color-black);
+	}
+
+	.form-grid{
+		width: 100%;
+	}
+}
+
